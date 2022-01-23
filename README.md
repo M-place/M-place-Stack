@@ -1,5 +1,6 @@
 # M-place-Stack
 
+<img width="100" height="100" alt="TMN" src="/m-place"/>
 M-place: MarketPlace Web Application
 <br>
 This project uses the following technologies:
@@ -9,4 +10,3 @@ This project uses the following technologies:
 - [MongoDB](https://www.mongodb.com/) for the database.
 - [Socket Io](https://socket.io/) for the notification.
 - [GraphQL](https://graphql.org/) provides a complete and understandable description of the data in your API.
-
