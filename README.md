@@ -1,6 +1,6 @@
 # M-place-Stack
 
-<img width="100" height="100" alt="TMN" src="/m-place"/>
+<img width="100" height="100" alt="m-place" src="/m-place.jpg"/>
 M-place: MarketPlace Web Application
 <br>
 This project uses the following technologies:
